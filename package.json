@@ -1,6 +1,6 @@
 {
   "name": "js-array-utility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple set of utility functions for array operations (remove duplicates, max, min).",
   "main": "index.js",
   "scripts": {
