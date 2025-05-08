@@ -1,0 +1,24 @@
+{
+  "name": "js-array-utility",
+  "version": "1.0.1",
+  "description": "A simple set of utility functions for array operations (remove duplicates, max, min).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishwars-dev/js-array-utility.git"
+  },
+  "keywords": [
+    "remove duplicates",
+    "max number",
+    "min number"
+  ],
+  "author": "ishwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishwars-dev/js-array-utility/issues"
+  },
+  "homepage": "https://github.com/ishwars-dev/js-array-utility#readme"
+}
